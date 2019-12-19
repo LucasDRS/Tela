@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tela</string>
+    <string-array name="LinguagePrefer">
+        <item>Linguage Prefer</item>
+        <item>English</item>
+        <item>Brazilian Portuguese</item>
+        <item>Spanish</item>
+        <item>German</item>
+        <item>French</item>
+        <item>Outros</item>
+        </string-array>
+
+
+</resources>
